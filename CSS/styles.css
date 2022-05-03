@@ -98,6 +98,14 @@ hr {
   color: #FBD6D2;
 }
 
+.p-footer {
+  padding: 20px 0 20px 0;
+  margin: 0 auto 0 auto;
+  width: 50%;
+  color: white;
+  font-size: 75%;
+}
+
 /***********CONTAINER ADDRESS*********/
 .top-container {
   background-color: white;
