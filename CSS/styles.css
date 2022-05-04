@@ -14,7 +14,7 @@ p {
 h1 {
   font-family: 'Condiment', cursive;
   color: #363062;
-  font-size: 562.5%;
+  font-size: 5.625rem;
   margin: 0;
 }
 
@@ -44,8 +44,8 @@ hr {
 }
 
 .subtitle {
-  margin: 0;
-  font-size: 120%;
+  margin: 0 auto;
+  width: 50%;
   color: #363062;
   line-height: 0;
 }
@@ -62,6 +62,11 @@ hr {
 
 .skills {
   margin-top: 50px;
+}
+
+.skill-heading {
+  width: 50%;
+  margin: auto;
 }
 
 .skill-row-1 {
