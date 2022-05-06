@@ -41,7 +41,7 @@ hr {
 /*************************CLASS ADDRESS******************************/
 .title {
   position: relative;
-  z-index: 2;
+  z-index: 10;
 }
 
 .subtitle {
