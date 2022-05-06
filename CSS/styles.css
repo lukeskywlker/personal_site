@@ -39,8 +39,9 @@ hr {
 
 /*************************ID ADDRESS******************************/
 /*************************CLASS ADDRESS******************************/
-.underlined {
-  text-decoration: underline;
+.title {
+  position: relative;
+  z-index: 2;
 }
 
 .subtitle {
@@ -135,6 +136,8 @@ hr {
 .skyline {
   width: 100%;
   margin: -110px;
+  position: initial;
+  z-index: 1;
 }
 
 .profile-photo {
